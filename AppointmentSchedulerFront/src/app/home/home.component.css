@@ -1,0 +1,62 @@
+.jumbotron{
+    background-image: url(../../assets/images/hero.jpg);
+    background-position: center;
+    border-radius: 5px;
+}
+
+.jumbotron h1{
+    color: #fff;
+}
+
+.jumbotron p{
+    color: #fff;
+}
+
+.content{
+    padding: 20px;
+}
+
+.location-content img{
+    width: 45px;
+    padding: 5px;
+}
+
+.location-content{
+    padding: 20px;
+}
+
+.location-content-left{
+    float: left;
+    text-align: center;
+    padding: 10px;
+    width: 35%;
+    border-radius: 3px;
+}
+
+.img-div{
+    border: 1px solid #000000;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+}
+
+.location-content-right{
+    float: right;
+    padding: 10px;
+    width: 65%;
+    text-align: left;
+}
+
+.button{
+    border: 1px solid #dcdadaf1;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.button:hover{
+    background-color: #e6e6e6;
+}
+
+.inner-content{
+    margin-bottom: 20px;
+}
