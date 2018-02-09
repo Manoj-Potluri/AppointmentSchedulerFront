@@ -51,6 +51,7 @@
     border: 1px solid #dcdadaf1;
     padding: 10px;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 .button:hover{
@@ -58,5 +59,9 @@
 }
 
 .inner-content{
+    margin-bottom: 20px;
+}
+
+.heading{
     margin-bottom: 20px;
 }

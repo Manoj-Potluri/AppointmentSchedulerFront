@@ -1,0 +1,17 @@
+.form-section2{
+    margin-top: 10px;
+}
+
+.jumbotron{
+    height: 283px;
+    border-radius: 5px;
+    background-image: url(../../assets/images/hero.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.jumbotron p{
+    color: #fff;
+    padding: 20px;
+}
